@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Teste</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo à minha página!</h1>
+    <p>Esta é uma página de teste no GitHub Pages.</p>
+    <p>Se você está vendo isso, a configuração está correta!</p>
+</body>
+</html>
